@@ -8,7 +8,7 @@
 
 ------------
 
-![View on device with small Large screen](https://cdn.jsdelivr.net/gh/Moskic/LazyStrapR/img/S-screen.png "View on device with screen")
+![View on device with Small screen](https://cdn.jsdelivr.net/gh/Moskic/LazyStrapR/img/S-screen.png "View on device with Small screen")
 
 ![View on device with Large screen](https://cdn.jsdelivr.net/gh/Moskic/LazyStrapR/img/L-screen.png "View on device with Large screen")
 
@@ -16,6 +16,7 @@ What & Why LazyStrap?
 ---------------------------
 Nothing serious, it's just a fun project on my spare time. If you are lazier than me or just like Jon Snow, know nothing about when you will be able to build your own website, but know how to wield some basic HTML and CSS, this template might hold the door for you.
 
+New Live demo: https://lazystrapr.netlify.app/
 ~~Live demo: http://creativealiens.com/demo/lazystrap/~~ (Temporarily down)
 
 
@@ -33,7 +34,9 @@ If you like this template, you may like our other works as well.
 ~~Keep your eyes on http://creativealiens.com~~ (Temporarily down)
 
 Or follow me on
-- https://moskic.com
 - https://dribbble.com/srizon
 - https://www.facebook.com/MamunSrizon
 - https://twitter.com/MamunSrizon
+- https://moskic.com
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/90de66bb-8f14-427a-986e-2e3a513e95c3/deploy-status)](https://app.netlify.com/sites/lazystrapr/deploys)
